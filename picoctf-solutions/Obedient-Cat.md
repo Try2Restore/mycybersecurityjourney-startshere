@@ -1,21 +1,7 @@
-# 🐈 PicoCTF Challenge: Obedient Cat
-* **Category:** General Skills
-* **Points:** 5
-* **Platform:** CyLab Security Academy / PicoCTF
+## 🔍 Current Status: ✅ Completed
 
----
-
-## 📋 Challenge Description
-The challenge provides a file named `flag`. The goal is to look inside this file and find the hidden text code.
-
-## 🔍 Current Status: ⏳ Work In Progress
-I am currently setting up my laptop workspace to solve this puzzle. 
-
-### My Plan:
-1. Open the CyLab Web Shell terminal on my laptop.
-2. Download the challenge file using the terminal command provided by the platform.
-3. Use the Linux command line utilities to read the file contents.
-4. Document the exact steps and final solution right here once completed!
-
----
-*Last Updated: October 2026*
+## 🚀 Step-by-Step Solution
+1. I launched the CyLab Web Shell terminal on my laptop.
+2. I pulled the challenge file onto the system using `wget`.
+3. I used the `cat flag` command to read the file contents.
+4. **Final Flag Found:** `academy{s4n1ty_v3r1f13d_61ddac22}`
