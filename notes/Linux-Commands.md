@@ -13,15 +13,15 @@ This is my living cheat sheet for quick commands, syntax shortcuts, and handy ti
 * `cd ..` — **Tip:** Type this to move backward exactly one folder (like hitting the "Back" button on your browser).
 * `clear` — Wipes the terminal screen clean if it gets too cluttered with text.
 
-### Challenge Shortcuts Learnt 
-1st Challenge: To find a Flag in a file link
+### 🏁 Challenge Shortcuts Learnt 
+* 1st Challenge: To find a Flag in a downloaded file link.
 clear (to clear the screen)
 wget http:// (put the download file link here)
 ls (to see the files in the folder)
 cat flag (to get the flag from the file).
 
-2nd Challenge: Connecting to a secure server 
-This is an SSH (Secure Shell)
+* 2nd Challenge: Connecting to a secure server 
+This is an SSH (Secure Shell).
 Click Lunch Instance (the remote server)
 Copy the Remote Server Credentials made up of: the username, the remote server address (starting with @), and the port of connection (starting with -p followed by the number)
 Paste it in your terminal and hit enter like this: ssh ctf-player@chatelaine.cylabacademy.net -p 38865
