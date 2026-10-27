@@ -23,7 +23,7 @@ cat flag (to get the flag from the file).
 2nd Challenge: Connecting to a secure server 
 This is an SSH (Secure Shell)
 Click Lunch Instance (the remote server)
-Copy the Remote Server Credentials 
+Copy the Remote Server Credentials made up of: the username, the remote server address (starting with @), and the port of connection (starting with -p followed by the number)
 Paste it in your terminal and hit enter like this: ssh ctf-player@chatelaine.cylabacademy.net -p 38865
 Select Yes for connection prompt 
 Copy password from the hint given 
