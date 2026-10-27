@@ -35,5 +35,8 @@ Now you're in
 `ls` (to see the files in the server folder)
 `cat` the file name (to read the Flag).
 
+* 3rd Challenge: Trust but verify an AI output
+
+Using `ls` and `cat` we compare actual contents of a file with the output of the AI about this file to understand exactly if it is hallucinating (picking up things from it's trained memory) or actually from the file been asked to process. 
 ---
 *💡 Rule of thumb: If I have to look up a command twice, it belongs on this list!*
