@@ -39,5 +39,9 @@ Now you're in
 
 Using `ls` and `cat` we compare actual contents of a file with the output of the AI about this file to understand exactly if it is hallucinating (picking up things from it's trained memory) or actually from the file been asked to process. 
 
+I used the Netcat `nc` command for this since it is a program (the AI) running in a remote server. 
+
+Verification of every fact stated by the AI agent was done using the commands explained above for file viewing and reading.
+
 ---
 *💡 Rule of thumb: If I have to look up a command twice, it belongs on this list!*
